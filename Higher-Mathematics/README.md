@@ -1,2 +1,0 @@
-# Higher-Mathematics
-Handwritten notes
